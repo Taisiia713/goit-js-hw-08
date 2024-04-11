@@ -1,0 +1,24 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    flex-direction: row;
+    padding-left: 156px;
+
+
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+.modal {
+    background: rgba(46, 47, 66, 0.8);
+}
+
+.gallery-image:hover {
+    width: 376px;
+    height: 208px;
+
+}
